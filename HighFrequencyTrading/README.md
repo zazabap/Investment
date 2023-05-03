@@ -14,3 +14,16 @@ Scalping: This algorithm involves quickly buying and selling securities to captu
 Mean Reversion: This algorithm is based on the idea that prices tend to revert to their mean over time, and involves buying or selling a security when its price deviates significantly from its historical average.
 These are just a few examples of the algorithms used in high frequency trading. Each algorithm has its own strengths and weaknesses, and successful HFT firms will often use a combination of several different algorithms to achieve their trading objectives.
 
+Famous Existing Firms for HFT: 
+https://medium.com/automation-generation/15-well-known-high-frequency-trading-firms-f45292c56d05
+
+Nomura:
+https://www.nri.com/jp/knowledge/glossary/lst/aa/algorithm
+
+アローヘッド: https://www.daiwa.jp/glossary/YST2454.html#:~:text=アローヘッド%20（あろーへっど）&text=東京証券取引所が,秒に短縮しました%E3%80%82
+
+Market System Arrowhead from JPX: https://www.jpx.co.jp/systems/equities-trading/01.html#:~:text=arrowheadは、2010年1,バージョンアップしています%E3%80%82 
+
+Rakuten Prevent Short Term Trading: https://www.rakuten-sec.co.jp/web/info/info20191030-01.html
+
+足立高徳　Takanori Adachi: https://www.jpx.co.jp/derivatives/futures-options-report/archives/nlsgeu000003skum-att/rerk1903.pdf 
