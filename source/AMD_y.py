@@ -1,3 +1,9 @@
+# Date: 2023-05-23 
+# Author: Shiwen An
+# Purpose: Write some code for connect Japan Stock Market
+# Start of serious data analysis for stock markets 
+
+
 import yfinance as yf
 import pandas as pd
 import matplotlib.pyplot as plt
