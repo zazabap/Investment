@@ -1,7 +1,8 @@
-# Date: 2023-05-23 
+# Date: 2023-05-31
 # Author: Shiwen An
 # Purpose: Write some code for connect Japan Stock Market
 # Start of serious data analysis for stock markets 
+# Accenture Stock
 
 
 import yfinance as yf
@@ -9,7 +10,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Download historical data as a DataFrame
-data = yf.download('AMD', start='2020-01-01')
+data = yf.download('ACN', start='2020-01-01')
 
 # Calculate the 30 week moving average
 data['30 Week MA'] = data['Close'].rolling(window=30).mean()
