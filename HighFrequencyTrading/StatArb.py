@@ -11,7 +11,7 @@ import requests
 # Define the securities to trade
 sec1 = 'AAPL'
 sec2 = 'MSFT'
-api_key = 'E2S7MZC034PYLV42'
+api_key = 'yourkey'
 symbol1 = 'AAPL'
 url1 = f'https://www.alphavantage.co/query?function=TIME_SERIES_DAILY_ADJUSTED&symbol={symbol1}&apikey={api_key}'
 symbol2 = 'MSFT'

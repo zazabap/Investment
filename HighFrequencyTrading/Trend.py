@@ -8,7 +8,7 @@ from alpha_vantage.timeseries import TimeSeries
 
 # Load historical stock price data
 symbol = 'AAPL'
-api_key = 'E2S7MZC034PYLV42'
+api_key = 'yourkey'
 ts = TimeSeries(key=api_key, output_format='pandas')
 data, meta_data = ts.get_daily_adjusted(symbol, outputsize='full')
 data = data.sort_index()

@@ -15,7 +15,7 @@ N = 252  # number of time steps
 dt = T / N  # time step
 
 # Generate random normal variables for the Wiener process
-np.random.seed(209)
+np.random.seed(2077)
 z = np.random.normal(size=N)
 
 # Simulate the geometric Brownian motion
