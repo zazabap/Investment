@@ -4,6 +4,7 @@ Game Industry:
 1. Take Two Interactive: Rockstar, 2K Games all belong to this company
 2. Unity: Software Engine Company
 3. Nintendo
+4. Capcom 
 
 Hardware Company:
 1. Nvidia
@@ -21,7 +22,20 @@ Telecommunication:
 2. Softbank
 3. KDDI
 
+Airline and Transportation: 
+1. JAL 
+2. ANA. 
+
 Other Japanese Companies: 
 1. Simplex: (IT x Econ Unicorn Company)
-2. ANA (Transportation Services)
 
+Database Company: 
+1. Oracle 
+2. MongoDB 
+3. Cockroach Labs [For its database product; In the future I consider it will be more and more important providing enterprise level solution]
+
+
+Tops in the industry [I think you should know when buying stocks]:
+Graphic Cards Product: Nvidia AMD
+Game: Nintendo(JP) 
+Furniture: Home Depot(U.S.) Lowe's(U.S.) IKEAD(World Wide) Nitori(Japan)
