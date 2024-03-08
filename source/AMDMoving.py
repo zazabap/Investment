@@ -69,5 +69,12 @@ def moving(stock):
 
     plt.show()
 
-moving('INTC')
+moving('SOXL') # Semiconductor
+
+
+moving('9432.T')
+
+moving('4373.T') #Simplex
+
+# moving('AMD')
 

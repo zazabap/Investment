@@ -70,9 +70,13 @@ axs[1, 2].legend()
 axs[1, 2].grid(True)
 
 msft = yf.download('MSFT', start='2020-01-01')
+msft['MA_20'] = msft['Close'].rolling(window=20).mean()
+msft['MA_50'] = msft['Close'].rolling(window=50).mean()
 # Plot daily closing prices
 axs[2, 0].plot(msft['Close'])
 axs[2, 0].grid(True)
+axs[2, 0].plot(msft.index, msft['MA_20'], label='20-day Moving Average')
+axs[2, 0].plot(msft.index, msft['MA_50'], label='50-day Moving Average')
 axs[2, 0].set_title('Microsoft Daily Prices')
 axs[2, 0].set_ylabel('Price ($)')
 

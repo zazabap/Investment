@@ -103,3 +103,8 @@ Use the issue tracker to report bugs. Include detailed information about the iss
 This toolkit is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 Happy coding and happy investing! 🚀
+
+## Rules for investment 
+
+1. Do NOT buy stocks on Fridays
+2. 20 Days Closing price and 50 days Closing price are indicators. 
